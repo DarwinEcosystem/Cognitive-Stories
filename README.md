@@ -1,2 +1,2 @@
 # The_Cognitive_Story
-open source Cognitve project with BCI systems and IBM Watson Technology
+A Darwin Ecosystem open source Cognitve project with BCI systems and IBM Watson Technology
