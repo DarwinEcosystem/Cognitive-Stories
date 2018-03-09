@@ -1,6 +1,6 @@
 # **Darwin Ecosystem Cognitive Stories**
 
-_A Darwin Ecosystem open source Cognitive project with BCI systems and IBM Watson Technology._
+_A Darwin Ecosystem Open Source Cognitive project with BCI systems, IBM Watson Technology and Neural Network Machine Learning_
 
 Like other stories, we have separated our adventure into augmenting the expression of human cognition though various forms of technology into chapters.  Each chapter is an evolution of the process of understanding the human brain though the use of BCI (Brain Computer Interfacing), Machine Learning Neural Network computing and various other technologies.
 
