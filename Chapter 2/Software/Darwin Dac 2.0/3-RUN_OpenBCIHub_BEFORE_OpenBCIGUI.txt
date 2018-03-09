@@ -1,0 +1,8 @@
+The OpenBCI GUI relies on the OpenBCIHub.
+
+Always have the OpenBCIHub running before launching the OpenBCI GUI. 
+
+Notes:
+You may leave the OpenBCIHub running at all times, and open and close the GUI as needed.
+The OpenBCIHub will take up very little memory when not in use
+The OpenBCIHub will not use processor time when not in use.
